@@ -1,11 +1,11 @@
 import TopBar from "./components/topbar/TopBar";
-import Single from "./pages/single/Single";
+import Settings from "./pages/settings/Settings";
 
 function App() {
   return (
     <div className="App">
       <TopBar />
-      <Single />
+      <Settings />
     </div>
   );
 }

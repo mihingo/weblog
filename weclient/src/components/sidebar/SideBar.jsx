@@ -17,7 +17,7 @@ function SideBar() {
           Explicabo?
         </p>
       </div>
-      <div className="sidebarItems">
+      <div className="sidebarItem">
         <span className="sidebarTitle">CATEGORIES</span>
         <ul className="sidebarList">
           <li className="sidebarListItem">Sports</li>
@@ -30,7 +30,7 @@ function SideBar() {
           <li className="sidebarListItem">Covid19</li>
         </ul>
       </div>
-      <div className="sidebarItems">
+      <div className="sidebarItem">
         <span className="sidebarTitle">FOLLOW US</span>
         <div className="sidebarSocial">
           <i className="sidebarIcon fab fa-facebook-square"></i>
