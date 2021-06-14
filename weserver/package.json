@@ -1,0 +1,15 @@
+{
+  "name": "weserver",
+  "version": "1.0.0",
+  "description": "Backend server for weblog",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Kelvin Mihingo N.",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "nodemon": "^2.0.7"
+  }
+}
